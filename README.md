@@ -17,3 +17,6 @@ Now lets take a look at the 2018 stock analysis. This was more of a down year fo
 
 ## Summary ##
 
+https://github.com/DomKnowlage/VBA_Challenge/commit/27bc78161d17860fe608932c8630c4b158320ca9
+
+Refactoring appears to be a give and take process, its great because you can take some of your old code and format it into a new layout to suit your new goals. The bad can stem from having to go back and go through each line and debug it to run properly Overall it does cut down the time it takes to get the code up and running so I can't necessairly complain about the process. I just need to get more familiar with the conditionals and formatting in VBA.
